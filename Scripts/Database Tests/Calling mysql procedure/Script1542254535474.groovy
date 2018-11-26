@@ -15,3 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 CustomKeywords.'com.katalon.demo.databases.MySQLConn.getData'()
 
+System.out.println("ahihi")
+
